@@ -1,6 +1,6 @@
-### alo ya voobshe konchennyi
+### I just wanna be part of your SYMPHONYYYY
 
-<h1 align="center">Alo, ya vashe konch dfr</h1>
+<h1 align="center">Alo, ya vashe konch </h1>
 <h3 align="center">poser</h3>
 
 - I’m currently learning **dunno**
