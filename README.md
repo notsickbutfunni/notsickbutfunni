@@ -1,19 +1,76 @@
-<h3 align="center">Wanna learn everything, especially Datascience</h3>
-
-- All of my projects are available at (will post soon)
-
-- How to reach me **ink000125@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/notsickbutfunni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notsickbutfunni" height="30" width="40" /></a>
-<a href="https://kaggle.com/ntsckbtfnni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ntsckbtfnni" height="30" width="40" /></a>
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontSize=50&descAlign=50" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### "Enough studying for now. I'll go hang out at Miku's place..."
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notsickbutfunni&show_icons=true&locale=en&layout=compact" alt="notsickbutfunni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notsickbutfunni&" alt="notsickbutfunni" /></p>
+<table>
+<tr>
+<td width="160" align="center">
+  <img src="https://static.wikia.nocookie.net/projectsekai/images/a/a2/Asahina_Mafuyu_%28Brand_New_World%29_school_chibi.png/revision/latest?cb=20240916192130" width="150" alt="Mafuyu">
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/-Terminal-%230d1117?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal"/>
+
+```bash
+notsickbutfunni@github:~$ neofetch
+
+OS: inkOS 143 x86_64
+Host: dfrr
+Kernel: 25.11 
+Uptime: 20 years+
+Packages: 228 (knowledge modules installed)
+Shell: fish 3.7.1
+Resolution: 1920x1080, Right Eye -9.0D; Left Eye -6.5D
+DE: Hyprland 
+WM: sway
+Editor: Neovim, VS Code
+Languages: Python, Java
+Focus: Data Science & AI 
+Motto: "Wanna learn everything."
+```
+</table>
+
+-  I’m currently working on my mental health
+-  How to reach me: **ink000125@gmail.com**
+
+---
+
+### Connect with me:
+<p align="left">
+  <a href="https://twitter.com/notsickbutfunni" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40"/>
+  </a>
+  <a href="https://kaggle.com/ntsckbtfnni" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" height="40"/>
+  </a>
+</p>
+
+---
+
+### Languages and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,python,pytorch,selenium,sklearn,seaborn,java,mysql,postgresql,docker,linux,git,opencv,matlab,postman" />
+</p>
+
+---
+
+### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsickbutfunni&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=notsickbutfunni&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+<p align="center">
+  <a href="https://youtu.be/qj8NLH_i7NI">
+    <img src="https://img.youtube.com/vi/qj8NLH_i7NI/0.jpg" alt="Watch the video" width="600"/>
+  </a>
+  <br>
+  <i>Hatsune Miku - "惨事のハニー(My Honey in the Tragic Dimension)" </i>
+</p>
+
 
