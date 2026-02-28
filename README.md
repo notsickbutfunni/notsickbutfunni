@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td width="160" align="center">
-  <img src="https://static.wikia.nocookie.net/projectsekai/images/a/a2/Asahina_Mafuyu_%28Brand_New_World%29_school_chibi.png/revision/latest?cb=20240916192130" width="150" alt="Mafuyu">
+  <img src="https://i.redd.it/69dcuwkryt1f1.png" width="150" alt="me">
 </td>
 <td>
 
